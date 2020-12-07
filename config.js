@@ -20,8 +20,6 @@ var config = {
         "",
         "",
         "",
-        "",
-        "",
         "Love you <3"
     ],
     /**
@@ -43,6 +41,8 @@ var config = {
         "Thành công nối tiếp thành công này":"./imgs/duong6.jpg",
         "Sinh nhật vui vẻ ý nghĩa nha nhá":"./imgs/duong7.jpg",
         "-Linh-":"./imgs/linh.jpg",
+        "Love you <3": "./imgs/love.jpg"
+
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
