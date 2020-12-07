@@ -7,10 +7,10 @@ var config = {
         "Dương thân mến",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Hôm nay là sinh nhật cậu",  // 同上...
         "Linh chúc Dương tuổi mới",
-        "Sức khoẻ dồi dào",
-        "Gia đình luôn luôn sung túc",
-        "Thành công nối tiếp thành công",
-        "Sinh nhật vui vẻ ý nghĩa nha",
+        "Sức khoẻ dồi dào này",
+        "Gia đình luôn luôn sung túc này",
+        "Thành công nối tiếp thành công này",
+        "Sinh nhật vui vẻ ý nghĩa nha nhá",
         "-Linh-",
         "",
         "",
